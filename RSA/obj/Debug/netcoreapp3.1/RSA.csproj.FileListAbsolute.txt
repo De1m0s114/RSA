@@ -1,0 +1,13 @@
+D:\учеба\RSA\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.exe
+D:\учеба\RSA\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.deps.json
+D:\учеба\RSA\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.runtimeconfig.json
+D:\учеба\RSA\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.runtimeconfig.dev.json
+D:\учеба\RSA\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.dll
+D:\учеба\RSA\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.pdb
+D:\учеба\RSA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.csprojAssemblyReference.cache
+D:\учеба\RSA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.AssemblyInfoInputs.cache
+D:\учеба\RSA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.AssemblyInfo.cs
+D:\учеба\RSA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.csproj.CoreCompileInputs.cache
+D:\учеба\RSA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.dll
+D:\учеба\RSA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.pdb
+D:\учеба\RSA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.genruntimeconfig.cache
