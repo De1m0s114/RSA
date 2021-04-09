@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jxjxUr/I/4JaQ1N3P3daiSTlZ42nlhvoh+cIuLRoqKj8sQnPOnyaqTldAHu6xli5KYoDWuetowAACmtlerLZ0A==",
+  "dgSpecHash": "hfHHJPePeh5TC0LJcKMxAQjASDm4EIm/c5yZJ4vzuOuKxnSJ0svjWI3bdJm8BIMsJZAZmEcdnZUYT+j8gyWEJg==",
   "success": true,
-  "projectFilePath": "D:\\учеба\\RSA\\RSA\\Unit_test1\\Unit_test1.csproj",
+  "projectFilePath": "D:\\учеба\\LABA\\RSA\\Unit_test1\\Unit_test1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yegor\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\yegor\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

@@ -5643,11 +5643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\учеба\\RSA\\RSA\\Unit_test1\\Unit_test1.csproj",
+      "projectUniqueName": "D:\\учеба\\LABA\\RSA\\Unit_test1\\Unit_test1.csproj",
       "projectName": "Unit_test1",
-      "projectPath": "D:\\учеба\\RSA\\RSA\\Unit_test1\\Unit_test1.csproj",
+      "projectPath": "D:\\учеба\\LABA\\RSA\\Unit_test1\\Unit_test1.csproj",
       "packagesPath": "C:\\Users\\yegor\\.nuget\\packages\\",
-      "outputPath": "D:\\учеба\\RSA\\RSA\\Unit_test1\\obj\\",
+      "outputPath": "D:\\учеба\\LABA\\RSA\\Unit_test1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yegor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5664,8 +5664,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\учеба\\RSA\\RSA\\RSA\\RSA.csproj": {
-              "projectPath": "D:\\учеба\\RSA\\RSA\\RSA\\RSA.csproj"
+            "D:\\учеба\\LABA\\RSA\\RSA\\RSA.csproj": {
+              "projectPath": "D:\\учеба\\LABA\\RSA\\RSA\\RSA.csproj"
             }
           }
         }

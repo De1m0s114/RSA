@@ -2,36 +2,30 @@ using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Unit_test1
-{   [TestClass]
+{
+    [TestClass]
     public class UnitTest1
     {
         [TestMethod]
-        public void Test_for_n()
+        public void Result()
         {
-            var n = new Key();
-            var result = n.n(7, 11);
-            var expected = 77;
-
-            Assert.AreEqual(result, expected);
+            var e = new RSA(35);
+            var word = 12;
+            
+            var result=e.Encrypt(word, (PublicKey)5);
+            var expected = e.Decrypt(result, (PrivateKey)5);
+            Assert.AreEqual(word, expected);
         }
         [TestMethod]
-        public void Test_for_e1()
+        public void KeyGeneratorCheck()
         {
-            
-            var result = Key.e1(24);
-            var expected = 5;
-
-            Assert.AreEqual(result, expected);
+            var s = new KeyGenerator();
+            var result = s.GenerateKeys(7, 5);
+            var expected = (5, 5);
+            Assert.Equals(result, expected);
         }
-        [TestMethod]
-        public void Test_for_d1()
-        {
-            
-            var result = Key.d1(13);
-            var expected = 8;
-
-            Assert.AreEqual(result, expected);
-        }
-       
     }
+    
+
 }
+

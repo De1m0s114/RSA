@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\учеба\\RSA\\RSA\\RSA\\RSA.csproj": {}
+    "D:\\учеба\\LABA\\RSA\\RSA\\RSA.csproj": {}
   },
   "projects": {
-    "D:\\учеба\\RSA\\RSA\\RSA\\RSA.csproj": {
+    "D:\\учеба\\LABA\\RSA\\RSA\\RSA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\учеба\\RSA\\RSA\\RSA\\RSA.csproj",
+        "projectUniqueName": "D:\\учеба\\LABA\\RSA\\RSA\\RSA.csproj",
         "projectName": "RSA",
-        "projectPath": "D:\\учеба\\RSA\\RSA\\RSA\\RSA.csproj",
+        "projectPath": "D:\\учеба\\LABA\\RSA\\RSA\\RSA.csproj",
         "packagesPath": "C:\\Users\\yegor\\.nuget\\packages\\",
-        "outputPath": "D:\\учеба\\RSA\\RSA\\RSA\\obj\\",
+        "outputPath": "D:\\учеба\\LABA\\RSA\\RSA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yegor\\AppData\\Roaming\\NuGet\\NuGet.Config",

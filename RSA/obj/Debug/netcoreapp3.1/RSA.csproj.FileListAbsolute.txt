@@ -11,3 +11,16 @@ D:\учеба\RSA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.csproj.CoreCompileInputs.c
 D:\учеба\RSA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.dll
 D:\учеба\RSA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.pdb
 D:\учеба\RSA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.genruntimeconfig.cache
+D:\учеба\LABA\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.exe
+D:\учеба\LABA\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.deps.json
+D:\учеба\LABA\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.runtimeconfig.json
+D:\учеба\LABA\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.runtimeconfig.dev.json
+D:\учеба\LABA\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.dll
+D:\учеба\LABA\RSA\RSA\bin\Debug\netcoreapp3.1\RSA.pdb
+D:\учеба\LABA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.csprojAssemblyReference.cache
+D:\учеба\LABA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.AssemblyInfoInputs.cache
+D:\учеба\LABA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.AssemblyInfo.cs
+D:\учеба\LABA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.csproj.CoreCompileInputs.cache
+D:\учеба\LABA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.dll
+D:\учеба\LABA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.pdb
+D:\учеба\LABA\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.genruntimeconfig.cache
